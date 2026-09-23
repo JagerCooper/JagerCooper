@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Jager Cooper · Founder, SolenixAI · AI consulting for small businesses · Open-source tools for AI agents" src="assets/banner-light.svg" width="100%">
+  <img alt="Jager Cooper · Founder, SolenixAI · AI and websites for small businesses · Open-source tools for AI agents" src="assets/banner-light.svg" width="100%">
 </picture>
 
 Hi, I'm Jager. I run **SolenixAI** from St. John's, Newfoundland.
