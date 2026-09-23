@@ -13,7 +13,7 @@ Software engineer by training (Memorial University of Newfoundland).
 
 - **AI consulting for small businesses.** Find the work AI can take off your plate, then set it up so it keeps working.
 - **Websites for small businesses.** Built, launched on your own domain, and looked after so you never have to think about it.
-- **Agents Marketplace** *(open source, coming soon at [SolenixAI](https://github.com/SolenixAI))*. Hand-picked agent tools, ours and the best of open source, that install into Claude Code, Codex, Cursor or any MCP client with one line. One line removes them.
+- **[Agents Marketplace](https://github.com/SolenixAI/agents-marketplace)** *(open source, [v0.1.0](https://github.com/SolenixAI/agents-marketplace/releases/tag/v0.1.0))*. Hand-picked agent tools, ours and the best of open source, that install into Claude Code, Codex, Cursor or any MCP client with one line. One line removes them.
 
 ## Find me
 
